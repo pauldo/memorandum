@@ -1,0 +1,15 @@
+- Fat chance
+  - 根本不可能(调侃，反讽)
+  - Fat chance—I’m in the middle of my experiment!
+  - 没门儿，我正做实验呢！
+  - You think he’ll agree to lend you his new car? Fat chance!
+- Chew the fat
+  - 闲聊
+  - Let’s chew the fat for a bit before cooking dinner.
+  - 做饭前咱们唠会儿
+  - My mom loves chewing the fat with her neighbors over morning tea.
+- The fat is in the fire
+  - 要出乱子
+  - The fat’s in the fire—boss is coming for the report!
+  - 麻烦大了，老板来要报告了！
+  - If you forget to submit the project today, the fat will be in the fire.
