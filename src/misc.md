@@ -20,3 +20,6 @@
   - date 日期转换
     1. `date +%Y%m%d%H%M%S -d @1234567890`
     1. `date +%s -d "2020-01-01 00:00:00"`
+
+  - git 免密拉取代码
+    `git config --global credential.helper store`
