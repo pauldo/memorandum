@@ -23,3 +23,17 @@
 
   - git 免密拉取代码
     `git config --global credential.helper store`
+
+  - Useful commands
+    - `zoxide`
+      - `zoxide init zsh >> ~/.zshrc_local && source ~/.zshrc_local` # init
+      - `z some path`
+    - `pass`
+      - `gpg --full-generate-key` # input user eg. paul
+      - `pass init paul`
+      - `pass insert website/username`
+      - `pass -c website/username`
+    - `fzf`
+    - `fd`
+    - `ripgrep`
+
