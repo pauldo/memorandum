@@ -33,6 +33,13 @@
       - `pass init paul`
       - `pass insert website/username`
       - `pass -c website/username`
+    - `jq`
+    - `sq`
+      - `sq completion zsh >> ~/.zshrc_local && source ~/.zshrc_local`
+      - `sq add mysql://xxx`
+      - `sq ls`
+      - `sq src @xxx`
+      - `sq '.user | ob(.id-) | .[0:5] | .user_id, .nickname'`
     - `fzf`
     - `fd`
     - `ripgrep`
