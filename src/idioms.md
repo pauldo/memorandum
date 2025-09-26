@@ -13,3 +13,6 @@
   - The fat’s in the fire—boss is coming for the report!
   - 麻烦大了，老板来要报告了！
   - If you forget to submit the project today, the fat will be in the fire.
+- I'm a little shy.
+  - 我没钱了
+- Be fed up with sth.
