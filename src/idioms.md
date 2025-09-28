@@ -1,3 +1,7 @@
+- Do you have **the** time?
+  - 你知道现在几点了吗？
+  - Do you have time?
+    - 你有时间吗？
 - Fat chance
   - 根本不可能(调侃，反讽)
   - Fat chance—I’m in the middle of my experiment!
@@ -16,3 +20,13 @@
 - I'm a little shy.
   - 我没钱了
 - Be fed up with sth.
+- Don't try to **sell** me.
+  - 不要试图说服我
+- be on the track
+  - You're on the fast track, Randal.
+  - 你现在正处在事业上升期，Randall。
+- What's holding you back?
+  - 你有什么顾虑吗？
+- You're a wonderful man, much better **than you give yourself credit for**.
+  - 你是一个很棒的人，比你想象中好太多
+
