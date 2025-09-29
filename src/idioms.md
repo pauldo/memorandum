@@ -4,7 +4,7 @@
     - 你有时间吗？
 - Fat chance
   - 根本不可能(调侃，反讽)
-  - Fat chance—I’m in the middle of my experiment!
+  - Fat chance — I’m in the middle of my experiment!
   - 没门儿，我正做实验呢！
   - You think he’ll agree to lend you his new car? Fat chance!
 - Chew the fat
@@ -14,7 +14,7 @@
   - My mom loves chewing the fat with her neighbors over morning tea.
 - The fat is in the fire
   - 要出乱子
-  - The fat’s in the fire—boss is coming for the report!
+  - The fat’s in the fire — boss is coming for the report!
   - 麻烦大了，老板来要报告了！
   - If you forget to submit the project today, the fat will be in the fire.
 - I'm a little shy.
@@ -29,4 +29,5 @@
   - 你有什么顾虑吗？
 - You're a wonderful man, much better **than you give yourself credit for**.
   - 你是一个很棒的人，比你想象中好太多
-
+- I'm committed.
+  - 我是真心的
