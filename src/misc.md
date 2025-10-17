@@ -44,3 +44,14 @@
     - `fd`
     - `ripgrep`
 
+  - nginx 跨域配置
+    - ```
+    ```
+    add_header Access-Control-Allow-Origin "*";
+    add_header Access-Control-Allow-Methods "*";
+    add_header Access-Control-Allow-Headers "*";
+    if ($request_method = 'OPTIONS') {
+      return 204;
+    }
+    ```
+
