@@ -29,7 +29,7 @@
       - `zoxide init zsh >> ~/.zshrc_local && source ~/.zshrc_local` # init
       - `z some path`
     - `pass`
-      - `gpg --full-generate-key` # input user eg. paul
+      - `gpg --full-generate-key` # input user eg. paul, or `gpg --import /path/to/keyfile` if you already have a key
       - `pass init paul`
       - `pass insert website/username`
       - `pass -c website/username`
